@@ -14,3 +14,8 @@ The ADC lab interfaces with the following:
 =======
 # ECE425L-ADC
 >>>>>>> f1e769067d2d0377e0ca4df19a16938dfa265642
+
+# ECE425L-Live Demonstration 
+(https://drive.google.com/file/d/1n3Qlw4SCfQbqiUHt0kPWmBMc-Y4TLCEZ/view?usp=drive_link)
+(https://drive.google.com/file/d/1vBRIzZdSUbrPqMlO47fN5ZfKcf-A2tR9/view?usp=drive_link)
+(https://drive.google.com/file/d/1rCFEJ_ljgKOotv1j3AKNqRkAfKdktRoL/view?usp=drive_link)
